@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GenAssessment\GenPrimeNumbers.csproj" />
+    <ProjectReference Include="..\GenPrimeNumbers\GenPrimeNumbers.csproj" />
   </ItemGroup>
 
 </Project>
